@@ -1,0 +1,28 @@
+{
+  "prd":[
+    {
+      "name":"prd1",
+      "price":"$110",
+      "desc":"this is prd1 desc",
+      "imgpath":"https://raw.githubusercontent.com/kjhardcore76/json/main/img1.jpg"
+    },
+    {
+      "name":"prd2",
+      "price":"$120",
+      "desc":"this is prd2 desc",
+      "imgpath":"https://raw.githubusercontent.com/kjhardcore76/json/main/img2.jpg"
+    },
+    {
+      "name":"prd3",
+      "price":"$130",
+      "desc":"this is prd3 desc",
+      "imgpath":"https://raw.githubusercontent.com/kjhardcore76/json/main/img3.jpg"
+    },
+    {
+      "name":"prd4",
+      "price":"$140",
+      "desc":"this is prd4 desc",
+      "imgpath":"https://raw.githubusercontent.com/kjhardcore76/json/main/img4.jpg"
+    }
+  ]
+}
